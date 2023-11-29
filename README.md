@@ -24,3 +24,8 @@ Un comentario del csv que genera C++
 El archivo generado contendrá únicamente los resultados obtenidos mediante el método híbrido (bisección + Newton) y el método de bisección.
 Opté por excluir el método de Newton estándar debido a diversos problemas de estabilidad, incluyendo fallos de segmentación. Que surgieron a partir de la aleatoriedad del valor inicial asignado.
 La curva que se visualiza en el gráfico corresponde a una de las iteraciones exitosas.
+
+Por ultimo Recomiendo fuertmente visitar el notebook que arme para la ocasion
+alli entro en mucho mas detalle y puede verse como trabajé
+
+https://colab.research.google.com/drive/1sCMAdY0nYxQd-Sr5IQL1LpYhN4oQXlsz#scrollTo=lBecnGbLBli1
