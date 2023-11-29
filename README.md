@@ -29,3 +29,5 @@ Por ultimo Recomiendo fuertmente visitar el notebook que arme para la ocasion
 alli entro en mucho mas detalle y puede verse como trabajé
 
 https://colab.research.google.com/drive/1sCMAdY0nYxQd-Sr5IQL1LpYhN4oQXlsz#scrollTo=lBecnGbLBli1
+
+De todos modos lo agrego como ipynb por si es mas comdo para ustedes
